@@ -1,18 +1,1 @@
-lmao
-update resume
-donwload honkai star rail 
-download that russian anime stuff
-download mainden of savage 
-appeal tiktok account
-download madmax
-download ping for phone
-update archlinux vm images + install firewalld,nmap,nc, delete windows
-find out who is canon protagonist in honkai and wuthering waves
-update genshin impact
-learn java
-
-update bottles
-update flatpaks
-update archlinux as --overwrite
-update whatsapp backup
-update phone
+this is a test file
